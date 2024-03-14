@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica 7</string>
+    <string name="titulo_app">Manejo Intenciones</string>
+    <string name="ex_intention">Explicita</string>
+    <string name="im_intention">Implicita</string>
+    <string name="titulo_in1">Teclado</string>
+    <string name="btn1">1</string>
+    <string name="btn2">2</string>
+    <string name="btn3">3</string>
+    <string name="btn4">4</string>
+    <string name="btndel">DEL</string>
+    <string name="btnClear">C</string>
+</resources>
